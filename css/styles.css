@@ -168,3 +168,13 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+/* SECOND PAGE */
+.filters-button {
+  background: #f4f4fd;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
