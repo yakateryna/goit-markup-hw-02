@@ -37,3 +37,30 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* HERO */
+.hero {
+  background: #2e2f42;
+}
+.hero-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.hero-buttom {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
