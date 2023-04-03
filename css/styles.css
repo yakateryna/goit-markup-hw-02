@@ -170,6 +170,9 @@
 }
 
 /* SECOND PAGE */
+
+/* filters */
+
 .filters-button {
   background: #f4f4fd;
   border: 1px solid #e7e9fc;
@@ -178,20 +181,15 @@
   order: 1;
   flex-grow: 0;
 }
-.text {
+.filter-buton-text {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  /* identical to box height, or 150% */
-
   display: flex;
   align-items: center;
   text-align: center;
   letter-spacing: 0.04em;
-
-  /* WHITE */
-
   color: #ffffff;
 }
