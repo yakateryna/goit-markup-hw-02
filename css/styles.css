@@ -71,7 +71,9 @@ body {
 }
 .contact-item:focus {
   color: #404bbf;
-  background-color: #404bbf;
+}
+.adress {
+  font-style: normal;
 }
 /* HERO section 1 */
 .hero {
