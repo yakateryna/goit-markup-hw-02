@@ -7,8 +7,9 @@
 
 /* fonds */
 
-.body {
+body {
   font-family: "Roboto", sans-serif;
+  color: #2e2f42;
 }
 
 .logo-link {
@@ -21,7 +22,7 @@
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: inherit;
 }
 
 .menu-link {
@@ -30,13 +31,13 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #2e2f42;
+  color: inherit;
   flex: none;
   order: 0;
   flex-grow: 0;
 }
 .menu-link:active {
-  color: #2e2f42;
+  color: inherit;
 }
 .menu-link:hover {
   color: #e7e9fc;
@@ -47,6 +48,7 @@
   background-color: #404bbf;
 }
 .contact-item {
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -67,7 +69,7 @@
   background: #2e2f42;
 }
 .hero-title {
-  /* font-family: "Roboto"; */
+  font-family: inherit;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -82,6 +84,7 @@
   border-radius: 4px;
 }
 .hero-button {
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -103,14 +106,16 @@
 /* first section */
 
 .first-section-title {
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: inherit;
 }
 .first-section-text {
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -122,6 +127,7 @@
 /* second section */
 
 .second-section-title {
+  font-family: inherit;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -129,7 +135,7 @@
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: inherit;
 }
 
 /* third section */
@@ -246,7 +252,7 @@
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: inherit;
 }
 .menu-text {
   font-family: inherit;
