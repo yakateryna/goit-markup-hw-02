@@ -157,9 +157,7 @@ body {
 }
 
 .fourth-section-pic {
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+  background-color: #ffffff;
 }
 .fourth-section-header {
   font-family: inherit;
