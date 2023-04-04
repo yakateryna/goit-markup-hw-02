@@ -20,7 +20,7 @@ body {
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.07em;
+  line-height: 1.07;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -41,7 +41,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.07em;
+  line-height: 1.07;
   color: #2e2f42;
   flex: none;
   order: 0;
@@ -63,7 +63,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.07em;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: inherit;
 }
@@ -99,7 +99,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.07em;
+  line-height: 1.07;
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
@@ -130,7 +130,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: inherit;
 }
@@ -172,7 +172,7 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -182,7 +182,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: inherit;
@@ -213,7 +213,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
