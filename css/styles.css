@@ -51,7 +51,12 @@
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.hero-buttom {
+.hero-button {
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+.hero-button {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -60,11 +65,9 @@
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
+  color: #ffffff;
+  cursor: pointer;
 }
-
 /* first section */
 
 .first-section-title {
