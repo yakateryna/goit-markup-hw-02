@@ -4,6 +4,13 @@
 .link {
   text-decoration: none;
 }
+
+/* fonds */
+
+.body {
+  font-family: "Roboto", sans-serif;
+}
+
 .logo-link {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -18,7 +25,7 @@
 }
 
 .menu-link {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -28,8 +35,18 @@
   order: 0;
   flex-grow: 0;
 }
+.menu-link:active {
+  color: #2e2f42;
+}
+.menu-link:hover {
+  color: #e7e9fc;
+  background-color: #404bbf;
+}
+.menu-link:focus {
+  color: #e7e9fc;
+  background-color: #404bbf;
+}
 .contact-item {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -37,12 +54,20 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.contact-item:hover {
+  color: #e7e9fc;
+  background-color: #404bbf;
+}
+.contact-item:focus {
+  color: #e7e9fc;
+  background-color: #404bbf;
+}
 /* HERO */
 .hero {
   background: #2e2f42;
 }
 .hero-title {
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto"; */
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -57,7 +82,6 @@
   border-radius: 4px;
 }
 .hero-button {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -68,10 +92,17 @@
   color: #ffffff;
   cursor: pointer;
 }
+.hero-button:hover {
+  color: #e7e9fc;
+  background-color: #404bbf;
+}
+.hero-button:focus {
+  color: #e7e9fc;
+  background-color: #404bbf;
+}
 /* first section */
 
 .first-section-title {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -80,7 +111,6 @@
   color: #2e2f42;
 }
 .first-section-text {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -92,7 +122,6 @@
 /* second section */
 
 .second-section-title {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -111,7 +140,7 @@
   flex-grow: 0;
 }
 .third-section-header {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -122,7 +151,7 @@
   color: #2e2f42;
 }
 .third-section-name {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -132,7 +161,7 @@
   color: #2e2f42;
 }
 .third-section-profession {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -163,7 +192,7 @@
   background: #2e2f42;
 }
 .footer-text {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -185,7 +214,7 @@
   flex-grow: 0;
 }
 .filters-button {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -211,7 +240,7 @@
 
 /* Menu */
 .menu-header {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -220,7 +249,7 @@
   color: #2e2f42;
 }
 .menu-text {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
