@@ -45,9 +45,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.menu-link:active {
-  color: #2e2f42;
-}
+
 .menu-link:hover {
   color: #404bbf;
   background-color: #404bbf;
