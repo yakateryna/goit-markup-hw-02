@@ -150,7 +150,9 @@ body {
 .fourth-section {
   background-color: #f4f4fd;
 }
-
+.background {
+  background-color: #ffffff;
+}
 .fourth-section-header {
   font-family: inherit;
   font-style: normal;
@@ -161,7 +163,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  background-color: #ffffff;
 }
 .fourth-section-name {
   font-family: inherit;
