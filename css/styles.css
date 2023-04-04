@@ -13,6 +13,8 @@ body {
   background-color: #ffffff;
 }
 
+/* LOGO */
+
 .logo-link {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -28,6 +30,11 @@ body {
 .logo-link-span {
   color: #2e2f42;
 }
+.logo-portfolio-span {
+  color: #f4f4fd;
+}
+
+/* Menu */
 
 .menu-link {
   font-family: inherit;
@@ -211,7 +218,7 @@ body {
   color: #f4f4fd;
 }
 
-/* SECOND PAGE */
+/* PORTFOLIO PAGE */
 
 /* filters */
 
