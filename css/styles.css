@@ -49,11 +49,11 @@ body {
   color: #2e2f42;
 }
 .menu-link:hover {
-  color: #e7e9fc;
+  color: #404bbf;
   background-color: #404bbf;
 }
 .menu-link:focus {
-  color: #e7e9fc;
+  color: #404bbf;
   background-color: #404bbf;
 }
 .contact-item {
