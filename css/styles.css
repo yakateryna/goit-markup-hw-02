@@ -66,11 +66,11 @@ body {
   color: inherit;
 }
 .contact-item:hover {
-  color: #e7e9fc;
+  color: #404bbf;
   background-color: #404bbf;
 }
 .contact-item:focus {
-  color: #e7e9fc;
+  color: #404bbf;
   background-color: #404bbf;
 }
 /* HERO section 1 */
