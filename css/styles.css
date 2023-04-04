@@ -155,9 +155,7 @@ body {
 .fourth-section {
   background-color: #f4f4fd;
 }
-.fourth-section {
-  background-color: #ffffff;
-}
+
 .fourth-section-pic {
   flex: none;
   order: 0;
