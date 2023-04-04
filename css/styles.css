@@ -48,11 +48,9 @@ body {
 
 .menu-link:hover {
   color: #404bbf;
-  background-color: #404bbf;
 }
 .menu-link:focus {
   color: #404bbf;
-  background-color: #404bbf;
 }
 .contact-item {
   font-family: inherit;
@@ -65,7 +63,6 @@ body {
 }
 .contact-item:hover {
   color: #404bbf;
-  background-color: #404bbf;
 }
 .contact-item:focus {
   color: #404bbf;
@@ -167,6 +164,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .fourth-section-name {
   font-family: inherit;
