@@ -144,7 +144,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -152,7 +152,9 @@ body {
 }
 
 /* section 4 */
-
+.fourth-section {
+  background-color: #f4f4fd;
+}
 .fourth-section-pic {
   flex: none;
   order: 0;
