@@ -9,7 +9,8 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .logo-link {
@@ -22,7 +23,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: inherit;
+  color: #2e2f42;
 }
 
 .menu-link {
@@ -31,13 +32,13 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: inherit;
+  color: #2e2f42;
   flex: none;
   order: 0;
   flex-grow: 0;
 }
 .menu-link:active {
-  color: inherit;
+  color: #2e2f42;
 }
 .menu-link:hover {
   color: #e7e9fc;
@@ -54,7 +55,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: inherit;
 }
 .contact-item:hover {
   color: #e7e9fc;
@@ -112,7 +113,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: inherit;
+  color: #2e2f42;
 }
 .first-section-text {
   font-family: inherit;
@@ -121,7 +122,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: inherit;
 }
 
 /* second section */
@@ -135,7 +136,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: inherit;
+  color: #2e2f42;
 }
 
 /* third section */
@@ -174,7 +175,7 @@ body {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: inherit;
 }
 
 /* footer */
@@ -252,7 +253,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: inherit;
+  color: #2e2f42;
 }
 .menu-text {
   font-family: inherit;
@@ -261,5 +262,5 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: inherit;
 }
