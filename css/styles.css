@@ -75,7 +75,7 @@ body {
   color: #e7e9fc;
   background-color: #404bbf;
 }
-/* HERO */
+/* HERO section 1 */
 .hero {
   background: #2e2f42;
 }
@@ -116,9 +116,9 @@ body {
   color: #e7e9fc;
   background-color: #404bbf;
 }
-/* first section */
+/* section 2 */
 
-.first-section-title {
+.second-section-title {
   font-family: inherit;
   font-style: normal;
   font-weight: 500;
@@ -127,19 +127,19 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.first-section-text {
+.second-section-text {
   font-family: inherit;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.07;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: inherit;
 }
 
-/* second section */
+/* section 3 */
 
-.second-section-title {
+.third-section-title {
   font-family: inherit;
   font-style: normal;
   font-weight: 700;
@@ -151,14 +151,14 @@ body {
   color: #2e2f42;
 }
 
-/* third section */
+/* section 4 */
 
-.third-section-pic {
+.fourth-section-pic {
   flex: none;
   order: 0;
   flex-grow: 0;
 }
-.third-section-header {
+.fourth-section-header {
   font-family: inherit;
   font-style: normal;
   font-weight: 700;
@@ -169,7 +169,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.third-section-name {
+.fourth-section-name {
   font-family: inherit;
   font-style: normal;
   font-weight: 500;
@@ -179,7 +179,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.third-section-profession {
+.fourth-section-profession {
   font-family: inherit;
   font-style: normal;
   font-weight: 400;
