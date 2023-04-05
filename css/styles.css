@@ -247,11 +247,11 @@ body {
 }
 
 .filters-button:hover {
-  color: #e7e9fc;
+  color: #ffffff;
   background-color: #404bbf;
 }
 .filters-button:focus {
-  color: #e7e9fc;
+  color: #ffffff;
   background-color: #404bbf;
 }
 
