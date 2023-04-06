@@ -76,9 +76,7 @@ body {
 .contact-item:focus {
   color: var(--blue);
 }
-.adress {
-  font-style: normal;
-}
+
 /* HERO section 1 */
 .hero {
   background: var(--first-gray);
