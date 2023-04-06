@@ -16,8 +16,8 @@
 }
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+  color: var(--second-gray);
+  background-color: var(--white);
 }
 
 /* adress */
@@ -36,13 +36,13 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--cloud);
 }
 .logo-link-span {
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 .logo-portfolio-span {
-  color: #f4f4fd;
+  color: var(--second-white);
 }
 
 /* Menu */
@@ -53,14 +53,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 
 .menu-link:hover {
-  color: #404bbf;
+  color: var(--blue);
 }
 .menu-link:focus {
-  color: #404bbf;
+  color: var(--blue);
 }
 .contact-item {
   font-family: inherit;
@@ -71,17 +71,17 @@ body {
   color: inherit;
 }
 .contact-item:hover {
-  color: #404bbf;
+  color: var(--blue);
 }
 .contact-item:focus {
-  color: #404bbf;
+  color: var(--blue);
 }
 .adress {
   font-style: normal;
 }
 /* HERO section 1 */
 .hero {
-  background: #2e2f42;
+  background: var(--first-gray);
 }
 .hero-title {
   font-family: inherit;
@@ -90,12 +90,12 @@ body {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #ffffff;
+  color: var(--white);
 }
 
 /* button */
 .hero-button {
-  background: #4d5ae5;
+  background: var(--cloud);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
 }
@@ -107,16 +107,16 @@ body {
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
-  color: #ffffff;
+  color: var(--white);
   cursor: pointer;
 }
 .hero-button:hover {
-  color: #e7e9fc;
-  background-color: #404bbf;
+  color: var(--third-white);
+  background-color: var(--blue);
 }
 .hero-button:focus {
-  color: #e7e9fc;
-  background-color: #404bbf;
+  color: var(--third-white);
+  background-color: var(--blue);
 }
 /* section 2 */
 
@@ -126,7 +126,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 .second-section-text {
   font-family: inherit;
@@ -147,15 +147,15 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 
 /* section 4 */
 .fourth-section {
-  background-color: #f4f4fd;
+  background-color: var(--second-white);
 }
 .background {
-  background-color: #ffffff;
+  background-color: var(--white);
 }
 .fourth-section-header {
   font-family: inherit;
@@ -165,7 +165,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 .fourth-section-name {
   font-family: inherit;
@@ -174,7 +174,7 @@ body {
   line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 .fourth-section-profession {
   font-family: inherit;
@@ -197,16 +197,16 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: var(--second-white);
   flex: none;
   order: 1;
   flex-grow: 0;
 }
 .logo-link-span-footer {
-  color: #f4f4fd;
+  color: var(--second-white);
 }
 .footer {
-  background: #2e2f42;
+  background: var(--first-gray);
 }
 .footer-text {
   font-family: inherit;
@@ -214,7 +214,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
+  color: var(--second-white);
 }
 
 /* PORTFOLIO PAGE */
@@ -222,8 +222,8 @@ body {
 /* filters */
 
 .filters-button {
-  background: #f4f4fd;
-  border: 1px solid #e7e9fc;
+  background: var(--second-white);
+  border: 1px solid var(--third-white);
   border-radius: 4px;
   flex: none;
   order: 1;
@@ -238,19 +238,19 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.04em;
-  color: #4d5ae5;
+  color: var(--cloud);
 }
 .filters-button {
   cursor: pointer;
 }
 
 .filters-button:hover {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: var(--white);
+  background-color: var(--blue);
 }
 .filters-button:focus {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: var(--white);
+  background-color: var(--blue);
 }
 
 /* Menu */
@@ -260,7 +260,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--first-gray);
 }
 .menu-text {
   font-family: inherit;
@@ -268,5 +268,5 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--second-gray);
 }
