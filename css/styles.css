@@ -17,11 +17,15 @@ body {
   background-color: #ffffff;
 }
 
+/* adress */
+.adress {
+  font-style: normal;
+}
+
 /* LOGO */
 
 .logo-link {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -42,7 +46,6 @@ body {
 
 .menu-link {
   font-family: inherit;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -58,7 +61,6 @@ body {
 }
 .contact-item {
   font-family: inherit;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -80,7 +82,6 @@ body {
 }
 .hero-title {
   font-family: inherit;
-  font-style: normal;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -97,7 +98,6 @@ body {
 }
 .hero-button {
   font-family: inherit;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -119,7 +119,6 @@ body {
 
 .second-section-title {
   font-family: inherit;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -128,7 +127,6 @@ body {
 }
 .second-section-text {
   font-family: inherit;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -140,7 +138,6 @@ body {
 
 .third-section-title {
   font-family: inherit;
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -159,7 +156,6 @@ body {
 }
 .fourth-section-header {
   font-family: inherit;
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -170,7 +166,6 @@ body {
 }
 .fourth-section-name {
   font-family: inherit;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -180,7 +175,6 @@ body {
 }
 .fourth-section-profession {
   font-family: inherit;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -193,7 +187,6 @@ body {
 
 .footer-logo-link {
   font-family: "Raleway", sans-serif;
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -214,7 +207,6 @@ body {
 }
 .footer-text {
   font-family: inherit;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -236,7 +228,6 @@ body {
 }
 .filters-button {
   font-family: inherit;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -262,7 +253,6 @@ body {
 /* Menu */
 .menu-header {
   font-family: inherit;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
@@ -271,7 +261,6 @@ body {
 }
 .menu-text {
   font-family: inherit;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
