@@ -5,11 +5,14 @@
   text-decoration: none;
 }
 
-/* fonds */
 :root {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+  --cloud: #4d5ae5;
+  --blue: #404bbf;
+  --first-gray: #2e2f42;
+  --second-gray: #434455;
+  --white: #ffffff;
+  --second-white: #f4f4fd;
+  --third-white: #e7e9fc;
 }
 body {
   font-family: "Roboto", sans-serif;
